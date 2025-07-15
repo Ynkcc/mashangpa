@@ -15,3 +15,6 @@ pip install playwright
 ```
 python 10.py （需要完成的题目的id）
 ```
+
+成果展示
+![成绩截图](屏幕截图_20250715_221118.png)
